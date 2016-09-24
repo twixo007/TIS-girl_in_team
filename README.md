@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Michaela Vavrova
 2. Gabriel Halasi
 3. Filip Spaldon
-4. Matej Randik
+4. Matej Randík
